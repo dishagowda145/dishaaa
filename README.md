@@ -1,8 +1,8 @@
 # 💫 About Me:
-<br><br>🔭 I'm currently working on Python Full Stack Development and Data Analysis projects.<br><br>🤝 I'm looking to collaborate on Python, Flask, Machine Learning, and Web Development projects.<br><br>💡 I'm looking for help with AI-powered web applications, Deep Learning, and Cloud Deployment.<br><br>🌱 I'm currently learning Advanced Python, Machine Learning, Data Analytics, and REST APIs.<br><br>💬 Ask me about Python, SQL, HTML, CSS, JavaScript, Flask, Data Analysis, and Web Development.<br><br>⚡ Fun fact: I enjoy turning real-world problems into practical software solutions and continuously learning new technologies.
+<br><br>🔭 I'm currently working on Python Full Stack Development and Data Analysis projects.<br><br>🤝 I'm looking to collaborate on Python, Machine Learning, and Web Development projects.<br><br>💡 I'm looking for help with AI-powered web applications, Deep Learning, and Cloud Deployment.<br><br>🌱 I'm currently learning Advanced Python, Machine Learning, Data Analytics, and REST APIs.<br><br>💬 Ask me about Python, SQL, HTML, CSS, JavaScript, Flask, Data Analysis, and Web Development.<br><br>⚡ Fun fact: I enjoy turning real-world problems into practical software solutions and continuously learning new technologies.
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/diisshaaaaaaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/disha-a) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/diisshaaaaaaa) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dishagowda144@gmail.com) 
 
 # 💻 Tech Stack:
