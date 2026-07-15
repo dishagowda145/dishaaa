@@ -1,5 +1,5 @@
 # About Me:
-<br><br>🔭 I'm currently working on Python Full Stack Development and Data Analysis projects.<br><br>🤝 I'm looking to collaborate on Python, Machine Learning, and Web Development projects.<br><br>💡 I'm looking for help with AI-powered web applications, Deep Learning, and Cloud Deployment.<br><br>🌱 I'm currently learning Advanced Python, Machine Learning, Data Analytics, and REST APIs.<br><br>💬 Ask me about Python, SQL, HTML, CSS, JavaScript, Flask, Data Analysis, and Web Development.<br><br>⚡ Fun fact: I enjoy turning real-world problems into practical software solutions and continuously learning new technologies..
+<br><br>🔭 I'm currently working on Python Full Stack Development and Data Analysis projects.<br><br>🤝 I'm looking to collaborate on Python, Machine Learning, and Web Development projects.<br><br>💡 I'm looking for help with AI-powered web applications, Deep Learning, and Cloud Deployment.<br><br>🌱 I'm currently learning Advanced Python, Machine Learning, Data Analytics, and REST APIs.<br><br>💬 Ask me about Python, SQL, HTML, CSS, JavaScript, Flask, Data Analysis, and Web Development.<br><br>⚡ Fun fact: I enjoy turning real-world problems into practical software solutions and continuously learning new technologies.
 
 
 # 🌐 Socials:
